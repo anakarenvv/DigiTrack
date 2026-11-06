@@ -1,0 +1,10 @@
+{
+  "description": "Permite a administradores y digitalizadores gestionar libros, asignaciones, avances diarios e incidencias para controlar la productividad y el progreso de proyectos de digitalización.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
