@@ -86,9 +86,9 @@ const navAdmin = [
   ["registro", "Registro de tomos", "book"],
   ["asignacion", "Asignación", "book"],
   ["custodia", "Custodia", "archive"],
-  ["usuarios", "Usuarios", "users"],
-  ["reportes", "Reportes", "chart"],
   ["incidencias", "Incidencias", "alert"],
+  ["reportes", "Reportes", "chart"],
+  ["usuarios", "Usuarios", "users"],
 ] as const
 const navUser = [
   ["panel", "Mi panel", "grid"],
